@@ -15,8 +15,7 @@
 
 <p align="center">
 <a href="https://media.licdn.com/dms/image/D4D03AQEgFTb2UBxG-g/profile-displayphoto-shrink_400_400/0/1665116643409?e=1680134400&v=beta&t=gHkmwAQwqgIcZo8FUmZP-zemroOtc0oBXegJdkISHJA"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:pundsatyam@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp;
-<a href="https://www.instagram.com/satyam_2602/"><img width="120px" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
+<a href="mailto:amitdorle111@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp;
 </p>
 
 <br>
